@@ -1,0 +1,7 @@
+matplotlib==3.9.3
+mediapipe==0.10.18
+nltk==3.9.1
+numpy==1.26.4
+opencv-python==4.10.0.84
+pillow==11.0.0
+scikit-learn==1.5.2
