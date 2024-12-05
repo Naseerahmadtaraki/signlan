@@ -32,7 +32,7 @@ labels_dict = {0: 'A', 1: 'B', 2: 'C', 3: 'D', 4: 'E', 5: 'F', 6: 'G', 7: 'H', 8
 word_buffer = ""
 current_letter = None
 confirmation_start_time = None
-prediction_timeout = 2  # Time in seconds to confirm a letter
+prediction_timeout = 3  # Time in seconds to confirm a letter
 
 # Function to save detected words to a file
 def save_word_to_file(word, filename="detected_words.txt"):
